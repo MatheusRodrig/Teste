@@ -1,0 +1,7 @@
+{
+  "name": "iom1trim1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
